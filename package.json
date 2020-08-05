@@ -1,0 +1,22 @@
+{
+  "name": "untitled4node",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "-": "0.0.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "js": "^0.1.0",
+    "morgan": "~1.9.1",
+    "node-telegram-bot-api": "^0.50.0",
+    "pug": "2.0.0-beta11",
+    "telegram-bot-api": "^2.0.0",
+    "unsplash": "^4.2.0",
+    "unsplash-js": "^6.0.0"
+  }
+}
